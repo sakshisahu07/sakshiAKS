@@ -1,0 +1,31 @@
+html{
+    overflow-x: hidden;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+ul li a{
+    text-decoration: none;
+}
+ul li {
+    list-style-type: none;
+    border: 2px solid black;
+    /*margin: 20px; */
+    padding: 20px;
+    height: 30px;
+    width: 30px;
+  border-radius: 50%;
+
+}
+ul{
+    display:flex;
+    justify-content: left;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+}
+
+
